@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Authors>cdorst</Authors>
-    <Description>Attribute and extension method for storing and retrieving string values with enum values</Description>
+    <Description>Attribute and extensions method for storing and retrieving string values with enum fields</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>CDorst.Common.EnumStringValues</PackageId>
     <TargetFramework>netstandard2.0</TargetFramework>
