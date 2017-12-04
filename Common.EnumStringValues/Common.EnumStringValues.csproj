@@ -1,7 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>cdorst</Authors>
+    <Description>Attribute and extension method for storing and retrieving string values with enum values</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>CDorst.Common.EnumStringValues</PackageId>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
