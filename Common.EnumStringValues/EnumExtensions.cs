@@ -17,9 +17,9 @@ namespace Common.EnumStringValues
         }
 
         /// <summary>
-        /// Returns description metadata for the given enum value
+        /// Returns enum string value metadata for the given enum value
         /// </summary>
-        public static string GetDescription(this Enum value)
+        public static string GetStringValue(this Enum value)
         {
             var attribute = value.GetAttribute<EnumStringValueAttribute>();
             return attribute == null ? value.ToString() : attribute.Value;

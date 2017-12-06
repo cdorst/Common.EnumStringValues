@@ -6,7 +6,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>CDorst.Common.EnumStringValues</PackageId>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.0</Version>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
 </Project>
